@@ -1,3 +1,11 @@
+# robo report
+log.html
+output.xml
+report.html
+
+# generated grpc code
+*_pb2_grpc.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

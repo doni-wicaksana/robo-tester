@@ -1,0 +1,9 @@
+{
+    "robot.interactiveConsole.arguments": [
+        "--output",
+        "${workspaceRoot}/output/interactive_output.xml"
+    ],
+    "robot.pythonpath": [
+        "${workspaceRoot}/python"
+    ]
+}

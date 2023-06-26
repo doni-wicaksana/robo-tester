@@ -1,0 +1,122 @@
+{"level":30,"time":"2023-06-25T22:48:50.985Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Listening on 60099"}
+{"level":30,"time":"2023-06-25T22:48:51.506Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:51.506Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:51.518Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-06-25T22:48:53.254Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-06-25T22:48:53.268Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method newContext"}
+{"level":30,"time":"2023-06-25T22:48:53.269Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-06-25T22:48:53.269Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Trace file: "}
+{"level":30,"time":"2023-06-25T22:48:53.297Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Changed active context"}
+{"level":30,"time":"2023-06-25T22:48:53.297Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method newContext"}
+{"level":30,"time":"2023-06-25T22:48:53.307Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:53.307Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:53.317Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method evaluateJavascript"}
+================= Original suppressed error =================
+Error: No page open.
+    at PlaywrightServer.getActivePage (c:\Users\Doni Wicaksana\Documents\Code\ToolsGW\robo-tester\.venv\Lib\site-packages\Browser\wrapper\index.js:9977:15)
+    at PlaywrightServer.evaluateJavascript (c:\Users\Doni Wicaksana\Documents\Code\ToolsGW\robo-tester\.venv\Lib\site-packages\Browser\wrapper\index.js:10032:75)
+    at c:\Users\Doni Wicaksana\Documents\Code\ToolsGW\robo-tester\.venv\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (c:\Users\Doni Wicaksana\Documents\Code\ToolsGW\robo-tester\.venv\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (c:\Users\Doni Wicaksana\Documents\Code\ToolsGW\robo-tester\.venv\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-06-25T22:48:53.317Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Error of node method  evaluateJavascript"}
+{"level":30,"time":"2023-06-25T22:48:53.327Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-06-25T22:48:53.328Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-06-25T22:48:53.874Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Video path: C:\\Users\\Doni Wicaksana\\Documents\\Code\\ToolsGW\\robo-tester\\browser\\video\\d53aaa1aa6b7651185e884ecf41d7698.webm"}
+{"level":30,"time":"2023-06-25T22:48:53.874Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Changed active page"}
+{"level":30,"time":"2023-06-25T22:48:55.788Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method newPage"}
+{"level":30,"time":"2023-06-25T22:48:55.804Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method evaluateJavascript"}
+{"level":30,"time":"2023-06-25T22:48:55.821Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method evaluateJavascript"}
+{"level":30,"time":"2023-06-25T22:48:55.829Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method getText"}
+{"level":30,"time":"2023-06-25T22:48:55.830Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Strict mode is enabled, find Locator with h1 in page."}
+{"level":30,"time":"2023-06-25T22:48:55.919Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Retrieved text for element h1 containing Playwright enables reliable end-to-end testing for modern web apps."}
+{"level":30,"time":"2023-06-25T22:48:55.919Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method getText"}
+{"level":30,"time":"2023-06-25T22:48:55.932Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:55.938Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:55.942Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:55.947Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:55.951Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-06-25T22:48:55.951Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-06-25T22:48:55.975Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-06-25T22:48:55.975Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-06-25T22:48:55.978Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:55.981Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:55.985Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Changed active context"}
+{"level":30,"time":"2023-06-25T22:48:55.985Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Changing current active page"}
+{"level":30,"time":"2023-06-25T22:48:55.985Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Changed active page"}
+{"level":30,"time":"2023-06-25T22:48:55.992Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:55.995Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:55.998Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Changing current active page"}
+{"level":30,"time":"2023-06-25T22:48:55.998Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Changed active page"}
+{"level":30,"time":"2023-06-25T22:48:56.003Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method closePage"}
+{"level":30,"time":"2023-06-25T22:48:56.017Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method closePage"}
+{"level":30,"time":"2023-06-25T22:48:56.025Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:56.025Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:56.031Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method evaluateJavascript"}
+================= Original suppressed error =================
+Error: No page open.
+    at PlaywrightServer.getActivePage (c:\Users\Doni Wicaksana\Documents\Code\ToolsGW\robo-tester\.venv\Lib\site-packages\Browser\wrapper\index.js:9977:15)
+    at PlaywrightServer.evaluateJavascript (c:\Users\Doni Wicaksana\Documents\Code\ToolsGW\robo-tester\.venv\Lib\site-packages\Browser\wrapper\index.js:10032:75)
+    at c:\Users\Doni Wicaksana\Documents\Code\ToolsGW\robo-tester\.venv\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (c:\Users\Doni Wicaksana\Documents\Code\ToolsGW\robo-tester\.venv\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (c:\Users\Doni Wicaksana\Documents\Code\ToolsGW\robo-tester\.venv\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-06-25T22:48:56.032Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Error of node method  evaluateJavascript"}
+{"level":30,"time":"2023-06-25T22:48:56.038Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-06-25T22:48:56.038Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-06-25T22:48:56.346Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Video path: C:\\Users\\Doni Wicaksana\\Documents\\Code\\ToolsGW\\robo-tester\\browser\\video\\669ad1db9da0e657ff9486a609cd7906.webm"}
+{"level":30,"time":"2023-06-25T22:48:56.346Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Changed active page"}
+{"level":30,"time":"2023-06-25T22:48:56.851Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method newPage"}
+{"level":30,"time":"2023-06-25T22:48:56.859Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method evaluateJavascript"}
+{"level":30,"time":"2023-06-25T22:48:56.908Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method evaluateJavascript"}
+{"level":30,"time":"2023-06-25T22:48:56.913Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method getText"}
+{"level":30,"time":"2023-06-25T22:48:56.913Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Strict mode is enabled, find Locator with h1 in page."}
+{"level":30,"time":"2023-06-25T22:48:57.002Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Retrieved text for element h1 containing Playwright enables reliable end-to-end testing for modern web apps."}
+{"level":30,"time":"2023-06-25T22:48:57.002Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method getText"}
+{"level":30,"time":"2023-06-25T22:48:57.009Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method evaluateJavascript"}
+{"level":30,"time":"2023-06-25T22:48:57.013Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method evaluateJavascript"}
+{"level":30,"time":"2023-06-25T22:48:57.017Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method goTo"}
+{"level":30,"time":"2023-06-25T22:48:59.114Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method goTo"}
+{"level":30,"time":"2023-06-25T22:48:59.126Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:59.142Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:59.147Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:59.153Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:59.156Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-06-25T22:48:59.156Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-06-25T22:48:59.161Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-06-25T22:48:59.161Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-06-25T22:48:59.163Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:59.166Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:59.170Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Changed active context"}
+{"level":30,"time":"2023-06-25T22:48:59.170Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Changing current active page"}
+{"level":30,"time":"2023-06-25T22:48:59.170Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Changed active page"}
+{"level":30,"time":"2023-06-25T22:48:59.180Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:59.184Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:59.187Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Changing current active page"}
+{"level":30,"time":"2023-06-25T22:48:59.187Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Changed active page"}
+{"level":30,"time":"2023-06-25T22:48:59.191Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method closePage"}
+{"level":30,"time":"2023-06-25T22:48:59.215Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method closePage"}
+{"level":30,"time":"2023-06-25T22:48:59.230Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:59.230Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:59.235Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:59.235Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:59.239Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Changed active context"}
+{"level":30,"time":"2023-06-25T22:48:59.242Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:59.242Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:59.252Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-06-25T22:48:59.253Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-06-25T22:48:59.258Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-06-25T22:48:59.258Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-06-25T22:48:59.269Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:59.269Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-25T22:48:59.273Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Changed active context"}
+{"level":30,"time":"2023-06-25T22:48:59.275Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-06-25T22:48:59.398Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-06-25T22:49:02.209Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-06-25T22:49:02.524Z","pid":24224,"hostname":"LAPTOP-1FE9VJKI","msg":"End of node method closeAllBrowsers"}
